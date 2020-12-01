@@ -2,11 +2,11 @@ var feedPet,addFood,fedTime,lastFed,foodObj,foodStock,milkBottle,milk,readState;
 var bedroom,garden,washroom,gameState,currentTime
 function preload()
 {
-  dogImg=loadImage("images/dogImg.png")
-  happyDog=loadImage("images/dogImg1.png")
-  bedroom=loadImage("images/Room.png")
-  garden=loadImage("images/Garden.png")
-  washroom=loadImage("images/WashRoom.png")
+  dogImg=loadImage("dogImg.png")
+  happyDog=loadImage("dogImg1.png")
+  bedroom=loadImage("Room.png")
+  garden=loadImage("Garden.png")
+  washroom=loadImage("WashRoom.png")
  // milkBottle=loadImage("images/Milk.png")
 	//load images here
 }

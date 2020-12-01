@@ -2,7 +2,7 @@ class Food{
 constructor(){
     this.foodStock=0;
     this.lastFed
-    this.image=loadImage("images/Food.png")
+    this.image=loadImage("Food.png")
 
 }
 
